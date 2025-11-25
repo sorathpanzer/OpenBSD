@@ -1,0 +1,10 @@
+399662ca1019c12b.b none swap sw
+399662ca1019c12b.a / ffs rw,noatime 1 1
+399662ca1019c12b.l /home ffs rw,noatime,nodev,nosuid 1 2
+399662ca1019c12b.d /tmp ffs rw,noatime,nodev,nosuid 1 2
+399662ca1019c12b.f /usr ffs rw,noatime,nodev 1 2
+399662ca1019c12b.g /usr/X11R6 ffs rw,noatime,nodev 1 2
+399662ca1019c12b.h /usr/local ffs rw,noatime,wxallowed,nodev 1 2
+399662ca1019c12b.k /usr/obj ffs rw,noatime,nodev,nosuid 1 2
+399662ca1019c12b.j /usr/src ffs rw,noatime,nodev,nosuid 1 2
+399662ca1019c12b.e /var ffs rw,noatime,nodev,nosuid 1 2

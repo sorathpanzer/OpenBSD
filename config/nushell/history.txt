@@ -1,0 +1,117 @@
+ls
+lf
+doas pkg_add yazi
+doas pkg_add lf
+lf
+doas vim config.h
+lf
+doas make install
+doas vim config.h
+doas make install
+doas vim config.h
+doas make install
+doas vim config.h
+doas make install
+doas vim config.h
+doas make install
+doas vim config.h
+doas make install
+doas vim config.h
+doas make install
+doas vim config.h
+doas make install
+doas vim config.h
+doas make install
+doas vim config.h
+doas make install
+doas vim config.h
+doas make install
+lf
+xsetroot -solid black
+doas vim config.h
+doas make install
+lf
+doas vim /etc/fstab
+doas vim /etc/doas.conf
+doas vim /etc/sysctl.conf
+su - root
+doas vim /etc/sysctl.conf
+su - root
+doas vim /etc/sysctl.conf
+doas vim /etc/login.conf
+doas hx /etc/login.conf
+doas usermod -G staff sorath
+doas pkg_add -u
+doas syspatch
+doas syspatch --help
+man syspatch
+man syspatch -c
+man syspatch -l
+cd dwm
+ls
+patch -p1 < patches/1*
+open patches/1* | patch -p1
+patch -p1 (open patches/1*)
+open -r patches/1* | patch -p1
+lf
+cd
+cd dwtest
+ls patches
+open patches/1-dwm-functionalgaps-6.2.diff | patch -p1
+lf
+cd dwm
+hx config.h
+doas make clean install
+lf
+hx config.h
+ungoogled-chromium
+hx config.h
+doas make clean install
+hx config.h
+doas make clean install
+startx
+cd dwm
+hx config.h
+doas make clean install
+startx
+which ksh
+chsh
+startx
+exit
+startx
+chsh
+exit
+ls
+doas shutdown -p ow
+doas shutdown -p now
+ls
+lf
+hx /etc/boot.conf
+doas hx /etc/boot.conf
+doas hx /etc/fstab
+doas mv boot.conf /etc
+doas hx /etc/boot.conf
+doas rcctl disable apmd
+doas rcctl enable apmd
+doas hx /etc/rc.conf.local
+sudo rcctl enable autofs
+doas rcctl enable autofs
+doas hx /etc/devd/usb.conf
+cat /etc/boot.conf
+lf
+doas rcctl restart devd
+devd
+lf
+doas shutdown -p now
+autofs
+lf
+cd
+umount /dev/sd2c
+doas umount /dev/sd2c
+lf
+doas umount /dev/sd2c
+hx .local/bin/autofs
+ls
+pwd
+autofs
+lf

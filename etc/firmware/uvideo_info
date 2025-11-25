@@ -1,0 +1,14 @@
+Firmware filename	USB id		Product
+-----------------------	-------------	-----------------------------------
+uvideo_isight_05ac-8300	0x05ac:0x8300	Apple built-in iSight
+uvideo_r5u87x_05ca-1803	0x05ca:0x1803	Flybook V5
+uvideo_r5u87x_05ca-1810	0x05ca:0x1810	HP Pavilion Webcam
+uvideo_r5u87x_05ca-1812	0x05ca:0x1812	HP Pavilion Webcam
+uvideo_r5u87x_05ca-1835	0x05ca:0x1835	Sony VGP-VCC5
+uvideo_r5u87x_05ca-1836	0x05ca:0x1836	Sony VGP-VCC4
+uvideo_r5u87x_05ca-1837	0x05ca:0x1837	Sony VGP-VCC4
+uvideo_r5u87x_05ca-1839	0x05ca:0x1839	Sony VGP-VCC6
+uvideo_r5u87x_05ca-183a	0x05ca:0x183a	Sony VGP-VCC7
+uvideo_r5u87x_05ca-183b	0x05ca:0x183b	Sony VGP-VCC8
+uvideo_r5u87x_05ca-183e	0x05ca:0x183e	Sony VGP-VCC9
+uvideo_r5u87x_05ca-1841	0x05ca:0x1841	Fujitsu F01 / Fujitsu Lifebook U810

@@ -1,0 +1,7 @@
+#!/bin/sh
+MOUNTPOINT="/home/sorath/usb"
+mkdir -p "$MOUNTPOINT"
+
+doas mount -t msdos "/dev/sd2c" "$MOUNTPOINT"
+echo "Mounted /dev/sd2c at $MOUNTPOINT"
+
